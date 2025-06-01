@@ -2,6 +2,10 @@
 Estimate puzzle completion with image recognition
 
 # Example Usage
+## Discord
+![discord-usage.png](/documentation/discord-usage.png)
+
+## Python Module
 ![puzzle.jpg](/documentation/puzzle.jpg)
 
 ```py
