@@ -1,3 +1,6 @@
+discord.py==2.5.2
 matplotlib==3.10.3
 numpy==2.2.6
 opencv-python==4.11.0.86
+python-dotenv==1.1.0
+requests==2.32.3
